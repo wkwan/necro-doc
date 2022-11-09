@@ -5,7 +5,9 @@ layout: default
 
 # Coming soon to the Unity Asset Store
 
-These fields are required to generate your image(s):
+## Documentation
+
+These fields are required to generate your image(s):  
 **Stability AI API Key:** Get your API Key [here](https://beta.dreamstudio.ai/membership?tab=apiKeys)  
 **Prompt:** Your image(s) will be generated based on this prompt  
 
