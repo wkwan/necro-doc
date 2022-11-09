@@ -13,7 +13,7 @@ These fields are required to generate your image(s):
 
 You can also change these fields if you want:  
 **Number of Images:** How many images to generate  	
-**Height:** Height of each image in pixels  
+**Height:** Height of each image in pixels    
 **Width:** Width of each image in pixels  
 **Steps:** More steps gives better quality results but is slower  
 **Seed:** Setting a seed makes the results reproducible. It also keeps high-level image properties like composition and color more consistent across a wide variety of other settings.  
