@@ -5,6 +5,8 @@ layout: default
 
 # Coming soon to the Unity Asset Store
 
+To open the plugin after importing into Unity: **Window -> Necro Stable Diffusion Image Generator**  
+
 ## What are all these settings for the image generator?
 
 These fields are required to generate your image(s):  
